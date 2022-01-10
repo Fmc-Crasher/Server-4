@@ -1,14 +1,14 @@
 {
     "name": "Hermit",
     "description": "Totally Customisable Bot with its own Baileys © CRASH ✘ HERMIT",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "logo": "https://i.imgur.com/NdXfmNV.jpeg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/Raganork",
+    "repository": "https://github.com/Fmc-Crasher/Spirex-V6",
     "website":   "https://github.com/Fmc-Crasher/Spirex-V6",
     "success_url": "https://github.com/Fmc-Crasher/Spirex-V6",
     "stack": "container",
     "env": {
-        "RAGANORK_CODE": {
+        "HERMIT_CODE": {
             "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
             "required": true
         },
